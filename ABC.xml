@@ -1,0 +1,81 @@
+<root>
+	<DocumentLevel>
+
+		<DocumentContextInfo xsi:type="FMT1LCOR" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<InstitutCode>BAAS DEV V3</InstitutCode>
+			<TemplateCode>FISE</TemplateCode>
+			<TemplateVersion>FISE</TemplateVersion>
+			<LanguageCode>GB</LanguageCode>
+			<OutputCode>PRINT</OutputCode>
+			<DocumentDate></DocumentDate>
+			<Status></Status>
+			<ExpirationDate></ExpirationDate>
+			<SignatureDate>20210315</SignatureDate>
+			<BeginValidityDate></BeginValidityDate>
+			<EndValidityDate></EndValidityDate>
+			<DocumentType></DocumentType>
+			<Channel>ONLINE</Channel>
+		</DocumentContextInfo>
+		<DiffusionData>
+			<AddressId>LU0010001.C-100924.PRINT.1</AddressId>
+			<AddresPrintable01></AddresPrintable01>
+			<AddresPrintable02></AddresPrintable02>
+			<AddresPrintable03></AddresPrintable03>
+			<AddresPrintable04></AddresPrintable04>
+			<AddresPrintable05></AddresPrintable05>
+			<AddressDetail>
+				<Title></Title>
+				<Name></Name>
+				<Firstname></Firstname>
+				<Number></Number>
+				<Street>Professional </Street>
+				<PostCode></PostCode>
+				<City>Marvel City </City>
+				<Country>MCU</Country>
+				</AddressDetail><AddEmailList>
+				<AddEmail></AddEmail>
+				</AddEmailList><LinkAccountStatement>
+				</LinkAccountStatement><Retention>
+					
+				</Retention>
+				<AddressPosition>1</AddressPosition>
+				<AddressIndCode></AddressIndCode>
+				<WrongAddressCode></WrongAddressCode>
+				<Printer></Printer>
+				<UserCode>INPUTTER</UserCode>
+				<ArchiveReferenceCode></ArchiveReferenceCode>
+				<LocalityAccount></LocalityAccount>
+				<DirectionCode></DirectionCode>
+				<NumberDay></NumberDay>
+		</DiffusionData>
+		<RmList>
+			<RmElementInfo>
+				<RmType>Implementation</RmType>
+				<RmMatricule></RmMatricule>
+				<RmLabel>Implementation</RmLabel>
+				<RmPhone></RmPhone>
+				<RmEmail></RmEmail>
+				<SendCopy></SendCopy>
+			</RmElementInfo>
+		</RmList>
+		<DocumentContextInfoSupp>
+			<CustomerId>100924</CustomerId>
+			<CustomerLabel>ARUN</CustomerLabel>
+			<AccountNumberIbanElec></AccountNumberIbanElec>
+			<AccountLabel> </AccountLabel>
+			<AccountType></AccountType>
+			<CurrencyAccount></CurrencyAccount>
+			<CurrencyAccountLabel></CurrencyAccountLabel>
+			<ProductList>
+				<ProductInfo>
+					<Desc></Desc>
+					<Id>AAACT21074WJVCCYD8</Id>
+					</ProductInfo></ProductList>
+					<VatNumber></VatNumber>
+					<VatCountry></VatCountry>
+					<IfaLogold></IfaLogold>
+					<SectorCode>1001</SectorCode>
+					<EmailSub></EmailSub>
+		</DocumentContextInfoSupp>
+	</DocumentLevel>
+</root>
